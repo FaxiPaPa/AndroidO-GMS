@@ -1,4 +1,5 @@
-# AndroidO-GMS
-CTS/GTS/CTV Verifier/VTS/CTS-ON-GSI
+ 32bit
+ 
+ CtsAadbHostTestCases,  11 tests, CtsAadbHostTestCases.jar
+ 
 
-1 CTS_8.1_r8
