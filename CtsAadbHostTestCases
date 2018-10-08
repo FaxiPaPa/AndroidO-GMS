@@ -1,1 +1,13 @@
 32bit,total:11
+CtsAadbHostTestCases
+10-08 19:59:47 I/ConsoleReporter: [1/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testSyncFiles_extStorageVariable pass
+10-08 19:59:48 I/ConsoleReporter: [2/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testPushDir pass
+10-08 19:59:49 I/ConsoleReporter: [3/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testGetScreenshot pass
+10-08 19:59:56 I/ConsoleReporter: [4/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testGetLogcat_size pass
+10-08 20:01:05 I/ConsoleReporter: [5/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testBugreport pass
+10-08 20:01:05 I/ConsoleReporter: [6/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testPushPull_normal pass
+10-08 20:01:05 I/ConsoleReporter: [7/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testPushPull_extStorageVariable pass
+10-08 20:01:05 I/ConsoleReporter: [8/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testPull_noexist pass
+10-08 20:01:09 I/ConsoleReporter: [9/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testSyncFiles_normal pass
+10-08 20:01:09 I/ConsoleReporter: [10/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceFuncTest#testExecuteShellCommand pass
+10-08 20:05:46 I/ConsoleReporter: [11/11 armeabi-v7a CtsAadbHostTestCases RWWKD6JVAQVO8DCA] android.aadb.cts.TestDeviceStressTest#testPushFolderWithManyFiles pass
