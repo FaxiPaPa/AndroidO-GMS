@@ -1,0 +1,4 @@
+# AndroidO-GMS
+CTS/GTS/CTV Verifier/VTS/CTS-ON-GSI
+
+1 CTS_8.1_r8
